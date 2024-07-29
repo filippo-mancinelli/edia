@@ -23,7 +23,7 @@
         },
         {
             "label": "Serviz",
-            "altText": "Blog",
+            "altText": "Servizi",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
