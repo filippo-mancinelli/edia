@@ -32,7 +32,7 @@
         },
         {
             "label": "Chi siamo",
-            "altText": "Careers page",
+            "altText": "Chi siamo",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
