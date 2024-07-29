@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Enhancing
+      text: Enhancing Digital Innovative Assets
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
