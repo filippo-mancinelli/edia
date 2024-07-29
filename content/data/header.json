@@ -63,7 +63,7 @@
                 },
                 {
                     "label": "Crypto trading bot powered by AI",
-                    "url": "/",
+                    "url": "/crypto-ai-bot",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
