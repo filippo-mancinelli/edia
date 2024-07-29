@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Magna subito col Telefood
+      text: Edia
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
