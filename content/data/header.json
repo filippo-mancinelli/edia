@@ -33,7 +33,7 @@
         {
             "label": "Chi siamo",
             "altText": "Chi siamo",
-            "url": "/careers",
+            "url": "/chi-siamo",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
